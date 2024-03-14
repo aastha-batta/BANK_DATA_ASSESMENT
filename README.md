@@ -1,4 +1,4 @@
-##Bank Statement Analyzer - Python Script
+# Bank Statement Analyzer - Python Script
 
 This Python script provides functionalities to clean, analyze and identify anomalies in bank statement data. It leverages pandas for data manipulation and loguru for logging.
 Functionality Overview
