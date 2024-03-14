@@ -3,12 +3,12 @@
 This Python script provides functionalities to clean, analyze and identify anomalies in bank statement data. It leverages pandas for data manipulation and loguru for logging.
 Functionality Overview
 
-    Cleans common Optical Character Recognition (OCR) errors in account numbers and extracts numeric amounts.
-    Normalizes transaction amounts based on transaction types and codes.
-    Sorts the data by transaction date and account number for easier analysis.
-    Identifies individual transactions and groups monthly data, saving monthly transactions to separate files.
-    Analyzes aggregated transaction data for discrepancies and compares subtotals with calculated totals.
-    Groups transaction data by account number, calculates standard deviation for amount, and marks outliers as anomalies.
+    1) Cleans common Optical Character Recognition (OCR) errors in account numbers and extracts numeric amounts.
+    2) Normalizes transaction amounts based on transaction types and codes.
+    3) Sorts the data by transaction date and account number for easier analysis.
+    4) Identifies individual transactions and groups monthly data, saving monthly transactions to separate files.
+    5) Analyzes aggregated transaction data for discrepancies and compares subtotals with calculated totals.
+    6) Groups transaction data by account number, calculates standard deviation for amount, and marks outliers as anomalies.
 
 Prerequisites
 
@@ -42,7 +42,7 @@ CHECK THE OUTPUT FOLDER FOR RESULTS
 Configuration
 
     The script uses the __logger class with predefined log levels for debug and info messages. You can modify these levels or add custom logging configurations by editing the script.
-    The script defines a std_dev_multiplier variable (default: 2) used for identifying transaction anomalies. You can adjust this value to control the sensitivity of anomaly detection.
+    The script defines a std_dev_multiplier variable (default: 2) used for identifying transaction anomalies. You can adjust this value to control the sensitivity of anomaly detection. (2 gives you about 95% accuracy)
 
 Contributing
 
