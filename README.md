@@ -46,4 +46,4 @@ Configuration
 
 Contributing
 
-This script is intended to be a starting point for analyzing bank statement data. Feel free to modify and extend functionalities based on your specific needs.
+This script is intended to be a starting point for analyzing bank statement data.
