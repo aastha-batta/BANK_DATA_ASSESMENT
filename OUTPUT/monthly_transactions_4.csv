@@ -1,0 +1,8 @@
+Transaction Date,Account Number,Transaction Type,Amount,Description,Transaction Code
+2023-04-05,ACC1002,Card Payment,4120,Rent,2.0
+2023-04-11,ACC1006,Direct Debit,-3232,Groceries,3.0
+2023-04-15,ACC1009,Direct Debit,-2640,Transfer,3.0
+2023-04-19,ACC1004,ATM Withdrawal,-4258,Online Purchase,3.0
+2023-04-22,ACC1004,Card Payment,989,Groceries,2.0
+2023-04-25,ACC1001,Card Payment,2897,Salary,2.0
+2023-04-25,ACC1007,Online Transfer,3708,Utilities,1.0

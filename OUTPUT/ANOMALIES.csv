@@ -1,0 +1,5 @@
+Transaction Date,Account Number,Transaction Type,Amount,Description,Anomaly
+2023-07-04,ACC1000,Deposit,4182,Transfer,True
+2023-02-20,ACC1003,Deposit,3243,Online Purchase,True
+2023-07-28,ACC1009,Deposit,4128,Rent,True
+2023-09-19,ACC1009,Card Payment,3078,Groceries,True

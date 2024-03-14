@@ -1,0 +1,18 @@
+Transaction Date,Account Number,Transaction Type,Amount,Description,Transaction Code
+2023-09-01,ACC1004,Card Payment,1852,Rent,2.0
+2023-09-01,ACC1009,ATM Withdrawal,-2834,Salary,3.0
+2023-09-05,ACC1007,Withdrawal,-1433,Groceries,3.0
+2023-09-09,ACC1008,Withdrawal,-222,Rent,3.0
+2023-09-10,ACC1000,Card Payment,-1112,Online Purchase,2.0
+2023-09-13,ACC1001,Card Payment,-1314,Salary,2.0
+2023-09-14,ACC1004,Deposit,4780,Salary,4.0
+2023-09-14,ACC1005,Withdrawal,-3967,Rent,3.0
+2023-09-14,ACC1008,Direct Debit,-3210,Utilities,3.0
+2023-09-16,ACC1003,Withdrawal,-757,Salary,3.0
+2023-09-16,ACC1004,Withdrawal,-3747,Rent,3.0
+2023-09-18,ACC1001,Deposit,694,Online Purchase,4.0
+2023-09-18,ACC1008,Deposit,3006,Rent,4.0
+2023-09-18,ACC1009,Direct Debit,-547,Salary,3.0
+2023-09-19,ACC1009,Card Payment,3078,Groceries,2.0
+2023-09-25,ACC1002,Withdrawal,-3765,Transfer,3.0
+2023-09-27,ACC1002,Card Payment,4071,Rent,2.0

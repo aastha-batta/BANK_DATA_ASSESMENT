@@ -1,0 +1,5 @@
+ 2024:03:14  16:30:52:IST | INFO | Assignment:clean_and_normalize_data:131 - The OCR errors have been cleaned and the data has been normalised on the basis of Deposit and Withdrawal, the cleaned data is saved in cleaned_data_file.csv
+ 2024:03:14  16:30:52:IST | INFO | Assignment:identify_individual_transactions:153 - The identification of individual transactions is complete
+ 2024:03:14  16:30:52:IST | INFO | Assignment:analyse_aggregated_data:201 - Discrepencies are found and are saved in SUBTOTAL_DESCREPENCIES_BY_MONTH.csv
+ 2024:03:14  16:30:52:IST | INFO | Assignment:analyse_aggregated_data:218 - Since the yearly total is equal to sum of subtotals, there might be some missing data values.The reliability of data should be checked
+ 2024:03:14  16:30:52:IST | INFO | Assignment:identify_transaction_anomalies:256 - The anomalies identified from data have been saved in ANOMALIES.csv
