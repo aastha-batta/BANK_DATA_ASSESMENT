@@ -23,7 +23,7 @@ The `config.yml` file is available for creating the environment
 Usage
 
 This script can be run as a command-line tool or imported as a module.
-`python bank_statement_analyzer.py -q <query_file>`
+`python bank_statement_analyzer.py analyse-bank-data -q <query_file>`
 
 Arguments:
 
