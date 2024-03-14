@@ -38,7 +38,7 @@ Output:
         ANOMALIES.csv: Contains transactions flagged as anomalies based on standard deviation calculations.
         report_logs.txt: Contains the final report of analysis
     Logs are generated during execution, providing information about the cleaning, analysis, and anomaly identification processes. These logs are typically displayed in the console by default.
-
+CHECK THE OUTPUT FOLDER FOR RESULTS
 Configuration
 
     The script uses the __logger class with predefined log levels for debug and info messages. You can modify these levels or add custom logging configurations by editing the script.
